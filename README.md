@@ -1,5 +1,13 @@
-## Maria Eduarda Ortega 
-#Student at ESPM
+<h1 align="center">
+  Maria Eduarda Ortega 
+  
+</h1>
+
+<p align="center">
+  Student at ESPM
+  
+</p>
+
 
 <!--
 **maduortega/maduortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
